@@ -6,4 +6,4 @@
   command = "nuxt generate"
 
 [images]
-  remote_images = ["https://cheery-trifle-7cbacb.netlify.app/.*"]
+  remote_images = ["ae01.alicdn.com/.*"]
